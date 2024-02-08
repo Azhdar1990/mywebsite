@@ -1,1 +1,4 @@
 wp-config.php
+*.jpg 
+*.jpeg 
+*.svg 
