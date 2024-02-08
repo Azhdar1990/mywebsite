@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="800" viewBox="0 0 2560 800">
+  <rect fill="#f9f9f9" width="2560" height="800"/>
+  <g opacity=".2">
+    <polygon fill="none" stroke="#000" stroke-width="0.4" style="isolation: isolate" points="1043.44 754.25 1043.24 754.46 1042.89 754.82 999.29 800 973.16 800 980.5 792.4 986.39 786.29 1029.91 741.2 1034.02 745.16 1034.38 745.51 1043.44 754.25"/>
+    <path fill="none" stroke="#000" stroke-width="0.4" style="isolation: isolate" d="M1110.9,684.4l302.3-313.3,13.1-13.5-13.5-13.1L1265.9,202.8l-13,13.5L1399.7,358,1097.4,671.3Z"/>
+    <path fill="none" stroke="#000" stroke-width="0.5" style="isolation: isolate" d="M1144,623.08,990.34,474.83l5.9-6.12L1149.87,617Z"/>
+    <path fill="none" stroke="#000" stroke-width="0.5" style="isolation: isolate" d="M986.39,786.29,843.2,648.1l-6.2-6-5.9,6.2-72.8,75.5,6.1,5.9h0L837.3,654.2,980.5,792.4l5.9-6.1ZM573.6,658.5l-3.4-3.2-40.7,42.1-1.4-1.3-68.6,71.1,6.2,5.9L534.3,702l-1.4-1.3Z"/>
+    <path fill="none" stroke="#000" stroke-width="0.4" style="isolation: isolate" d="M147.8,20.1l-4.1-4,12-12.5L152,0H133.1l-3,3.1-13,13.5,17.6,17.1-83.95,87-.35.36-.1.11L59.39,130l.36.35,4,3.93,84.5-87.6,13-13.5Z"/>
+    <polygon fill="none" stroke="#000" stroke-width="0.5" style="isolation: isolate" points="713.1 782.8 701.6 794.8 706.98 800 694.58 800 689.5 795 695.4 788.9 707 776.9 713.1 782.8"/>
+    <path fill="none" stroke="#000" stroke-width="0.4" style="isolation: isolate" d="M0,323.74V349.9L302,641.39h0l2.7-2.8,10.4-10.8Z"/>
+    <polygon fill="none" stroke="#000" stroke-width="0.4" style="isolation: isolate" points="493.48 800 466.4 800 370.52 707.46 370.16 707.12 369.83 706.8 378.65 697.66 378.99 697.31 382.88 693.28 493.48 800"/>
+    <polygon fill="none" stroke="#000" stroke-width="0.4" style="isolation: isolate" points="1195.49 134.82 1193.71 136.66 1186.32 144.32 1182.44 148.35 1122.29 90.31 1117.35 85.55 1040.46 11.35 1051.42 0 1055.78 0 1195.49 134.82"/>
+    <path fill="none" stroke="#000" stroke-width="0.4" style="isolation: isolate" d="M1051.36-.67,1045,5.93l-6.83-6.6h-.73l7.56,7.3,7.09-7.3ZM1265.9,202.8l-70.42-68M1185.64,145,1256,213M1100.7,674.5l-67.54,69.82m10.28,9.93,67.46-69.85M50.3,121.15l-49.63,50m0,20.47,59.83-60.6M302,641.43,369.8,706.8m9.9-10.2-67.83-65.37"/>
+    <path fill="none" stroke="#000" stroke-width="0.5" style="isolation: isolate" d="M873.7,350.4,1123.5,91.5l-1.21-1.19-4.89-4.81-.05,0L813,400.9l6.2,5.9,48.5-50.3,57,54.9,5.9-6.1-.06-.06ZM751,465.1h0L699.6,518.4,462.9,290,742.72,0H730.89L450.8,290.2,693.6,524.6,587.8,634.3l6.1,5.9L757.2,471.1ZM731,800,713.2,782.8m50.2-54.1,1,1A73.74,73.74,0,0,1,783.74,800"/>
+    <path fill="none" stroke="#000" stroke-width="0.5" style="isolation: isolate" d="M995.7,469.2c34.1-35.4,31.5-93.3-3.9-127.4l-61.8,64"/>
+    <path fill="none" stroke="#000" stroke-width="0.3" stroke-dasharray="3 3" style="isolation: isolate" d="M221.17,0,248.3,26.2A88.39,88.39,0,0,0,265.9,0"/>
+    <path fill="none" stroke="#000" stroke-width="0.5" style="isolation: isolate" d="M813.5,401.4c-36.5-35.2-92.8-36-128,.5l66,63.7"/>
+    <path fill="none" stroke="#000" stroke-width="0.3" stroke-dasharray="3 3" style="isolation: isolate" d="M963.17,0c-.23,18.38,6.21,36.57,19.93,49.8l48-49.8M318.63,637.75,369.4,585.2c27.57,26.58,25.73,73.22-.45,101.11m877.28-482.74c-26.91,27.1-73.49,30.58-100.93,3.93l50.64-52.5M57.22,134.37,123.1,197.9C90.89,231.25,35.43,230.46,0,201.06"/>
+  </g>
+</svg>
